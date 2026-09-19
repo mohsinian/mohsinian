@@ -3,7 +3,7 @@
   <p><strong>Backend Engineer at WellDev | Public Transport Systems in Europe | Competitive Programmer</strong></p>
 
   <p>
-    <a href="https://portfolio-34t.pages.dev"><img src="https://img.shields.io/badge/Live%20Portfolio-portfolio--34t.pages.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio"></a>
+    <a href="https://tahsin.fyi"><img src="https://img.shields.io/badge/Live%20Portfolio-tahsin.fyi-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio"></a>
     <a href="https://www.linkedin.com/in/tahsin-ahmed-37663b1ab/"><img src="https://img.shields.io/badge/LinkedIn-tahsin--ahmed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:tahsinbd.ahmed1@gmail.com"><img src="https://img.shields.io/badge/Email-tahsinbd.ahmed1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
@@ -64,6 +64,11 @@ Outside of work I am a competitive programmer with a foundation in algorithm des
 ---
 
 ### 📌 Featured Projects
+
+*   **[Confess-Audit](https://github.com/mohsinian/confess)** (TypeScript, Node.js, Anthropic API, NPM)
+    - Debugs AI coding-agent trajectories: a seven-stage pipeline combining deterministic detectors with LLM-based reasoning, with guardrail gates that reject findings unless their evidence verifies verbatim against the transcript.
+    - Benchmarked against a one-shot LLM prompt — detection F1 improved from 70.8% to 79.3% with fewer false positives at identical recall.
+    - Published on [NPM →](https://www.npmjs.com/package/confess-audit) with a 59-check offline test suite gating the publish pipeline.
 
 *   **[Flippit](https://github.com/mohsinian/altri-challenge)** (Flask, scikit-learn, XGBoost, NLTK, spaCy, Transformers)
     - Scores properties based on their flipping potential using trained models and NLP analysis to predict resale values and renovation costs.
