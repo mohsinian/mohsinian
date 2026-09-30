@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Tahsin Ahmed Majumder</h1>
+  <h1> Hi, I'm Tahsin Ahmed Majumder</h1>
   <p><strong>Backend Engineer at WellDev | Public Transport Systems in Europe | Competitive Programmer</strong></p>
 
   <p>
